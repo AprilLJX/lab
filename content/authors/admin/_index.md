@@ -54,6 +54,23 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+  - block: contact
+    content:      
+      email: ahlu@pku.edu.cn
+
+      # Automatically link email and phone or display as text?
+      autolink: true
+
+            # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '1'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
