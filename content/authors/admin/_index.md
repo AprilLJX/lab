@@ -44,8 +44,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    url: 'mailto:test@example.org'
-    title: test@example.com
+    link: 'mailto:test@example.org'
+    name: test@example.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
